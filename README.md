@@ -3,6 +3,7 @@ Researching and building my own private cloud to store files and  develop my Clo
 
 Working on my own cloud and learning  important skills such as:
 
+# Learning  objectives 
 1. **Linux  administration**
 
 2. **Networking**
@@ -20,3 +21,7 @@ Working on my own cloud and learning  important skills such as:
 8. **Backup and recovery**
 
 9. **Technical documentation**
+
+#  Project Status  (11/24/26)
+
+Currently in the research and development stage. This repository will document my progress, technical decisions, challenges,  solutions, and  lessons learned throughout the project. 
