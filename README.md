@@ -22,6 +22,6 @@ Working on my own cloud and learning  important skills such as:
 
 9. **Technical documentation**
 
-#  Project Status  (11/24/26)
+#  Project Status
 
 Currently in the research and development stage. This repository will document my progress, technical decisions, challenges,  solutions, and  lessons learned throughout the project. 
